@@ -5,4 +5,5 @@ def search(arr,x):
         if arr[i]==x:
             return i
         return -1
+    #print
 print(search)
